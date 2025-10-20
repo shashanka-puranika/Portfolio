@@ -31,7 +31,7 @@ export default function Portfolio() {
       title: 'Thread-based Karaya gum detection',
       venue: 'Scientific Reports',
       date: 'Sept 29, 2025',
-      link: '#'
+      link: 'https://doi.org/10.1038/s41598-025-19210-4 '
     },
     {
       title: 'Methoxy Chalcones therapeutic activities',
@@ -43,7 +43,7 @@ export default function Portfolio() {
       title: 'Pyridyl nitrogen antibacterial activity',
       venue: 'Scientific Reports',
       date: 'July 30, 2025',
-      link: '#'
+      link: ' https://www.nature.com/articles/s41598-025-09049-0 '
     }
   ]
 
